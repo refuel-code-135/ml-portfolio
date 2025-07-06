@@ -9,3 +9,5 @@
 | 5 | [ml-unsupervised-clustering-sql-data](https://github.com/refuel-code-135/ml-unsupervised-clustering-sql-data) | Clustering analysis on SQL-based dataset |
 | 6 | [search-vector-semantic-files](https://github.com/refuel-code-135/search-vector-semantic-files) | Semantic file search using vector embeddings |
 | 7 | [stat-abtest-marketing-bayes-frequentist](https://github.com/refuel-code-135/stat-abtest-marketing-bayes-frequentist) | A/B testing with Bayesian and frequentist stats |
+| 8 | [poisson-distributions-visualization](https://github.com/refuel-code-135/poisson-distributions-visualization) | Tiny tool to display Poisson distributions in the terminal, with simple tests |
+
