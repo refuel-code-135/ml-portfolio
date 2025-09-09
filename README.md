@@ -18,7 +18,7 @@
 
 5. **[Semantic File Search](https://github.com/refuel-code-135/search-vector-semantic-files)**  
    Search files by semantic similarity using vector embeddings  
-   *Tech stack: Python, Sentence-BERT, FAISS*  
+   *Tech stack: Python, Sentence-BERT, FAISS, streamlit*  
 
 
 ## Data Science & Statistics
