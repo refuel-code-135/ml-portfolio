@@ -2,23 +2,23 @@
 
 1. **[NYC Taxi Fare Regression](https://github.com/refuel-code-135/ml-supervised-regression-nyc-taxi-fare)**  
    Taxi fare prediction with regression models  
-   *Tech stack: Python, scikit-learn, pandas, matplotlib*  
+   *Tech stack: Python, feature enginnering, scikit-learn, LightGBM, shap, optuna*  
 
 2. **[NYC Taxi Fare API](https://github.com/refuel-code-135/ml-predict-api-nyc-taxi-fare)**  
    REST API for taxi fare prediction  
-   *Tech stack: Python, FastAPI, Docker, Nginx*  
+   *Tech stack: Python, Docker, Nginx, FastAPI*  
 
 3. **[Home Credit Risk](https://github.com/refuel-code-135/ml-supervised-classification-home-credit-risk)**  
    Credit risk prediction using supervised learning  
-   *Tech stack: Python, LightGBM, scikit-learn*  
+   *Tech stack: Python, scikit-learn, LightGBM, shap, Feature importances*  
 
 4. **[20 Newsgroups Classification](https://github.com/refuel-code-135/ml-supervised-classification-20newsgroups)**  
    Text classification on news articles  
-   *Tech stack: Python, scikit-learn, TF-IDF, Logistic Regression*  
+   *Tech stack: Python, scikit-learn, TF-IDF, Naive Bayes, Logistic Regression, Random Forest, LightGBM*  
 
 5. **[Semantic File Search](https://github.com/refuel-code-135/search-vector-semantic-files)**  
    Search files by semantic similarity using vector embeddings  
-   *Tech stack: Python, Sentence-BERT, FAISS, Flask API*  
+   *Tech stack: Python, Sentence-BERT, FAISS*  
 
 
 ## Data Science & Statistics
