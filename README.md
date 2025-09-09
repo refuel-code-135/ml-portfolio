@@ -2,7 +2,7 @@
 
 1. **[NYC Taxi Fare Regression](https://github.com/refuel-code-135/ml-supervised-regression-nyc-taxi-fare)**  
    Taxi fare prediction with regression models  
-   *Tech stack: Python, feature enginnering, scikit-learn, LightGBM, shap, optuna*  
+   *Tech stack: Python, feature engineering, scikit-learn, LightGBM, shap, optuna*  
 
 2. **[NYC Taxi Fare API](https://github.com/refuel-code-135/ml-predict-api-nyc-taxi-fare)**  
    REST API for taxi fare prediction  
@@ -25,11 +25,11 @@
 
 6. **[Unsupervised SQL Clustering](https://github.com/refuel-code-135/ml-unsupervised-clustering-sql-data)**  
    Clustering analysis on SQL-based dataset  
-   *Tech stack: Python, SQL(including window function), classfication, k-means,*  
+   *Tech stack: Python, SQL(including window function), classification(k-means)*  
 
 7. **[A/B Testing Toolkit](https://github.com/refuel-code-135/stat-abtest-marketing-bayes-frequentist)**  
    Marketing A/B testing with Bayesian & frequentist methods  
-   *Tech stack: Python, Byesian approach, traditional t-test*  
+   *Tech stack: Python, Bayesian approach, traditional t-test*  
 
 
 ## Experimental / Visualization
